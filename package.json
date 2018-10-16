@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-revealjs",
+  "version": "1.0.0",
+  "description": "Introduce slide separators compatible with RevealJS, including horizontal and vertical navigation.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynohat/markdown-it-revealjs.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "revealjs"
+  ],
+  "author": {
+    "name": "Anthony Hogg",
+    "email": "anthony@hogg.fr>"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynohat/markdown-it-revealjs/issues"
+  },
+  "homepage": "https://github.com/ynohat/markdown-it-revealjs#readme"
+}
